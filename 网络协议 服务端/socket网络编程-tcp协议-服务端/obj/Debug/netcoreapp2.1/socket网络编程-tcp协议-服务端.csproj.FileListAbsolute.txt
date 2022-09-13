@@ -1,0 +1,11 @@
+F:\kxr\C#\网络协议 服务端\socket网络编程-tcp协议-服务端\bin\Debug\netcoreapp2.1\socket网络编程-tcp协议-服务端.deps.json
+F:\kxr\C#\网络协议 服务端\socket网络编程-tcp协议-服务端\bin\Debug\netcoreapp2.1\socket网络编程-tcp协议-服务端.runtimeconfig.json
+F:\kxr\C#\网络协议 服务端\socket网络编程-tcp协议-服务端\bin\Debug\netcoreapp2.1\socket网络编程-tcp协议-服务端.runtimeconfig.dev.json
+F:\kxr\C#\网络协议 服务端\socket网络编程-tcp协议-服务端\bin\Debug\netcoreapp2.1\socket网络编程-tcp协议-服务端.dll
+F:\kxr\C#\网络协议 服务端\socket网络编程-tcp协议-服务端\bin\Debug\netcoreapp2.1\socket网络编程-tcp协议-服务端.pdb
+F:\kxr\C#\网络协议 服务端\socket网络编程-tcp协议-服务端\obj\Debug\netcoreapp2.1\socket网络编程-tcp协议-服务端.csprojAssemblyReference.cache
+F:\kxr\C#\网络协议 服务端\socket网络编程-tcp协议-服务端\obj\Debug\netcoreapp2.1\socket网络编程-tcp协议-服务端.csproj.CoreCompileInputs.cache
+F:\kxr\C#\网络协议 服务端\socket网络编程-tcp协议-服务端\obj\Debug\netcoreapp2.1\socket网络编程-tcp协议-服务端.AssemblyInfoInputs.cache
+F:\kxr\C#\网络协议 服务端\socket网络编程-tcp协议-服务端\obj\Debug\netcoreapp2.1\socket网络编程-tcp协议-服务端.AssemblyInfo.cs
+F:\kxr\C#\网络协议 服务端\socket网络编程-tcp协议-服务端\obj\Debug\netcoreapp2.1\socket网络编程-tcp协议-服务端.dll
+F:\kxr\C#\网络协议 服务端\socket网络编程-tcp协议-服务端\obj\Debug\netcoreapp2.1\socket网络编程-tcp协议-服务端.pdb

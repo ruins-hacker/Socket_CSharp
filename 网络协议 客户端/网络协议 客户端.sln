@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-socket编程-tcp协议-客户端", "001-socket编程-tcp协议-客户端\001-socket编程-tcp协议-客户端.csproj", "{0E45F291-9E2A-402A-9159-AFA67D0ABE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E45F291-9E2A-402A-9159-AFA67D0ABE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E45F291-9E2A-402A-9159-AFA67D0ABE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E45F291-9E2A-402A-9159-AFA67D0ABE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E45F291-9E2A-402A-9159-AFA67D0ABE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32BA9A5C-B65D-487F-B65A-C16305741EA2}
+	EndGlobalSection
+EndGlobal
